@@ -10,3 +10,4 @@ docker run -d -p 5000:5000 -v $(pwd):/app 1stapp
 
 Access Application:
 http://localhost:5000
+
