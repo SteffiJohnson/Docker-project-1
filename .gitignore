@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+db.sqlite
+
+# OS files
+.DS_Store
+
+# Git
+.git
